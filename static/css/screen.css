@@ -868,7 +868,7 @@ body.nav-opened .nav {
     padding: 0 15px;
     border: #bfc8cd 1px solid;
     opacity: 1;
-    color: #9EABB3;
+    color: white;
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
@@ -932,8 +932,8 @@ body.nav-opened .menu-button .word {
 
 /* Add a border to the buttons on hover */
 .menu-button:hover {
-    border-color: #555;
-    color: #555;
+    border-color: white;
+    color: white;
 }
 
 /* The details of your blog. Defined in ghost/settings/ */
